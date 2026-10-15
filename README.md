@@ -7,9 +7,9 @@
 # 4K Video Downloader+ 26.3 “for Windows: Smart Mode, 4K, subtitles” [v26.3.5]
 
 <p>
-  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/shot-1.jpg" alt="4K Video Downloader+ queue" width="280"></a>
-  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/shot-2.jpg" alt="4K Video Downloader+ smart mode" width="280"></a>
-  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/shot-3.jpg" alt="4K Video Downloader+ library" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/shot-1.jpg" alt="4K Video Downloader+ sites" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/shot-2.jpg" alt="4K Video Downloader+ library" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/shot-3.jpg" alt="4K Video Downloader+ AI tools" width="280"></a>
 </p>
 
 MoggyDay keeps one stable URL for 4K Video Downloader+: EN / RU. Smart Mode and 4K playlists. Russian UI, 245 MB, Windows x64.
