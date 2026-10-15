@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://quickoechannel.github.io/4k-video-downloader-plus-windows/) picks English or Russian from the browser. Switch: [English](https://quickoechannel.github.io/4k-video-downloader-plus-windows/?lang=en) · [Русский](https://quickoechannel.github.io/4k-video-downloader-plus-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/4k-video-downloader-plus"><img src="docs/media/preview.jpg" alt="4K Downloader+ preview" width="640"></a>
+</p>
+
 4K Video Downloader+ · MoggyDay · 26.3 · v26.3.5
 
 # 4K Video Downloader+ 26.3 “for Windows: Smart Mode, 4K, subtitles” [v26.3.5]
